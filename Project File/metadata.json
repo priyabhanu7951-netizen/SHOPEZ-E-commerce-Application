@@ -1,0 +1,8 @@
+{
+  "name": "ShopEZ",
+  "description": "An all-in-one elegant, full-stack e-commerce platform featuring high-fidelity customer and admin experiences.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

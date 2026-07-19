@@ -1,0 +1,22 @@
+[
+  {
+    "_id": "order_3snquwk",
+    "userId": "user_seeded_1",
+    "name": "Jane Customer",
+    "email": "customer@gmail.com",
+    "mobile": "9955662460",
+    "address": "rtc road",
+    "pincode": "523001",
+    "title": "Realme buds",
+    "description": "TWS buds with 10.2mm dynamic drivers, active noise cancellation, and 28 hours battery life.",
+    "mainImg": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?w=600&auto=format&fit=crop&q=80",
+    "size": "Standard",
+    "quantity": 1,
+    "price": 3999,
+    "discount": 35,
+    "paymentMethod": "netbanking",
+    "orderDate": "2026-07-19",
+    "deliveryDate": "2026-07-26",
+    "orderStatus": "Cancelled"
+  }
+]
